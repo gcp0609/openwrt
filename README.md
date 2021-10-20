@@ -1,3 +1,6 @@
+https://github.com/gcp91020/openwrt/blob/master/README.md
+
+
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
